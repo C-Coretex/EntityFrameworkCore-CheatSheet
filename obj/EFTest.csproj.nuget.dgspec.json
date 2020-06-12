@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valer\\Desktop\\Programming\\C#\\EFTest\\EFTest.csproj": {}
+    "C:\\Users\\valer\\Desktop\\GitSave\\EFCore-CheatSheet\\EFTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valer\\Desktop\\Programming\\C#\\EFTest\\EFTest.csproj": {
+    "C:\\Users\\valer\\Desktop\\GitSave\\EFCore-CheatSheet\\EFTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valer\\Desktop\\Programming\\C#\\EFTest\\EFTest.csproj",
+        "projectUniqueName": "C:\\Users\\valer\\Desktop\\GitSave\\EFCore-CheatSheet\\EFTest.csproj",
         "projectName": "EFTest",
-        "projectPath": "C:\\Users\\valer\\Desktop\\Programming\\C#\\EFTest\\EFTest.csproj",
+        "projectPath": "C:\\Users\\valer\\Desktop\\GitSave\\EFCore-CheatSheet\\EFTest.csproj",
         "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valer\\Desktop\\Programming\\C#\\EFTest\\obj\\",
+        "outputPath": "C:\\Users\\valer\\Desktop\\GitSave\\EFCore-CheatSheet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -51,6 +51,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
